@@ -4,7 +4,7 @@ This is a web application which allows users to:
 - Do  CRUD operations like adding,deleting,modifying the records of blood donation.
 - Update the net quantity of each blood group available in the bank.
 -  Manage user authentication and authorization for secure access to the application.
--  
+
 ## Tech Stack Used
 - React.js
 -  Node.js
